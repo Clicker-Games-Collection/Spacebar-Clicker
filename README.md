@@ -6,7 +6,7 @@ Get ready for **Spacebar Clicker**, an irresistibly fun game where your mission 
 
  Each tap earns you points, which unlock a variety of quirky upgrades, turning your clicking spree into an outrageous adventure filled with hilarious characters and innovative automation.
 
-![Spacebar Clicker](https://playclickergames.org/game/spacebar-clicker)
+![Spacebar Clicker](https://game.playclickergames.org/202502091835003.jpeg)
 
 ## How to Play
 
